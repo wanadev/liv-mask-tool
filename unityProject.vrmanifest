@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.livmasktool.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "H:\\Code_fast\\liv-mask-tool\\LivMaskTool\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "LivMaskTool [Testing]"
+        }
+      }
+    }
+  ]
+}
